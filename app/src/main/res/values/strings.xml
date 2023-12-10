@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Assignement4TestPlace</string>
+    <string name="btn_brampton">Bramton</string>
+    <string name="btn_oakville">Oakville</string>
+    <string name="btn_mississauga">Mississauga</string>
+</resources>
